@@ -5,84 +5,84 @@
           "nama": "Afif",
           "alamat": "Pekalongan",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 2,
           "nama": "Tommy",
           "alamat": "Cianjur",
           "umur": 24,
-          "nohp": "0172712312",
+          "nohp": "0172712312"
         },
         {
           "id": 3,
           "nama": "Vania",
           "alamat": "Salatiga",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 4,
           "nama": "Afif",
           "alamat": "Pekalongan",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 5,
           "nama": "Tommy",
           "alamat": "Cianjur",
           "umur": 24,
-          "nohp": "0172712312",
+          "nohp": "0172712312"
         },
         {
           "id": 6,
           "nama": "Vania",
           "alamat": "Salatiga",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 7,
           "nama": "Afif",
           "alamat": "Pekalongan",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 8,
           "nama": "Tommy",
           "alamat": "Cianjur",
           "umur": 24,
-          "nohp": "0172712312",
+          "nohp": "0172712312"
         },
         {
           "id": 9,
           "nama": "Vania",
           "alamat": "Salatiga",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 10,
           "nama": "Afif",
           "alamat": "Pekalongan",
           "umur": 24,
-          "nohp": "081223121232",
+          "nohp": "081223121232"
         },
         {
           "id": 11,
           "nama": "Tommy",
           "alamat": "Cianjur",
           "umur": 24,
-          "nohp": "0172712312",
+          "nohp": "0172712312"
         },
         {
           "id": 12,
           "nama": "Vania",
           "alamat": "Salatiga",
           "umur": 24,
-          "nohp": "081223121232",
-        },
-      ],
+          "nohp": "081223121232"
+        }
+      ]
 }
